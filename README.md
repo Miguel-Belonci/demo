@@ -6,4 +6,4 @@
 
 - and i know how to pull modifications from Github to my Git Bash
 
-- alguma coisa 
+- alguma coisa
